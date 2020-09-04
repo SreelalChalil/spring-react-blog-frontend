@@ -1,2 +1,1 @@
-This is the front-end for spring-react-blog application.
-This demos basic crud operation.
+Frontend for spring-react-blog application.
