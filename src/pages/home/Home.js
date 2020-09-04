@@ -27,6 +27,7 @@ return (
                             <Card.Title>{b.title}</Card.Title>
                         </Card.Header>
                         <Card.Body>{b.body}</Card.Body>
+                        <Card.Footer>{b.creationDate}</Card.Footer>
                     </Card>
                 </>
            )}
